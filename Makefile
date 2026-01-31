@@ -1,4 +1,4 @@
-TARGET := litex_etherbone
+TARGET := litex_etherbone_server
 SOURCES := $(wildcard *.c)
 
 DEBUG ?= 0
