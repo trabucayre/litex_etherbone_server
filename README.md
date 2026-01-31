@@ -1,1 +1,1 @@
-# litex_etherbone_server
+# LiteX EtherBone server
